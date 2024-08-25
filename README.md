@@ -11,4 +11,4 @@ I have used:
 ## mongodb (mongoose) 
 
 => I have also added user-authentication using the jsonwebtokens - so that u can make your account and login - a token will be returned and then only you can access the site contents.
- <br><br> => Also used session and transaction methods in mongoDb.
+ <br><br> => Also used session and transaction methods in mongoDb in order to make transaction more secured end to end.
