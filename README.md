@@ -1,7 +1,9 @@
 
 # Build a basic version of a Paytment app
 
-I have made a very basic payment app - just for practice, I have used: 
+I have made a very basic payment app - In this you can create an account and access the dashboard where there would be a list of other users who have made accounts, you can send money to any user you want from the list. there is a search suggestion filter - You will get filtered users depending on the initial letters you type to search.
+
+I have used: 
 ## express 
 ## nodejs 
 ## tailwind 
